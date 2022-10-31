@@ -1,0 +1,6 @@
+﻿  banking record.cpp
+C:\Users\user\source\repos\banking record\banking record.cpp(87,12): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\user\source\repos\banking record\banking record.cpp(106,12): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\user\source\repos\banking record\banking record.cpp(108,10): warning C4129: 'E': unrecognized character escape sequence
+C:\Users\user\source\repos\banking record\banking record.cpp(132,12): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  banking record.vcxproj -> C:\Users\user\source\repos\banking record\Debug\banking record.exe
